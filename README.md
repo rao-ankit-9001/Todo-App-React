@@ -25,10 +25,10 @@ This is a simple Todo application for desktop built using **React** and **Tailwi
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 npm install
-npm start
+npm run dev
 
 
-#Folder Structure
+## Folder Structure
     src/
 ├── components/
 │   └── CreateTodo.jsx

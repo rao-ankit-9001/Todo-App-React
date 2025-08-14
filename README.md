@@ -22,15 +22,16 @@ This is a simple Todo application for desktop built using **React** and **Tailwi
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git https://github.com/rao-ankit-9001/Todo-App-React.git
+cd Todo-App-React
 npm install
 npm run dev
 
 
-## Folder Structure
+# Folder Structure
     src/
 ├── components/
+│   └── About.jsx
 │   └── CreateTodo.jsx
 │   └── Home.jsx
 │   └── RenderTodos.jsx
